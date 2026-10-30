@@ -1,0 +1,12 @@
+pandas>=2.2
+pyarrow>=15
+requests>=2.31
+mlxtend>=0.23
+scikit-learn>=1.4
+xgboost>=2.0
+imbalanced-learn>=0.12
+scikit-fuzzy>=0.5
+matplotlib>=3.8
+seaborn>=0.13
+jupyter
+ipykernel

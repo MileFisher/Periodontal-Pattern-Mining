@@ -1,0 +1,11 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data: public NHANES files are re-downloaded by `python -m src.load`
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
